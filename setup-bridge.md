@@ -52,3 +52,5 @@ lxc.net.0.ipv4.gateway = 10.xx.xx.xx
 
 lxc-start -n linuxcontainer -d
 lxc-attach -n linuxcontainer -- ping -c 3 8.8.8.8
+
+---
