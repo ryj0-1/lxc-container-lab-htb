@@ -18,6 +18,6 @@ systemctl restart ssh
 
 ## Remote connection
 
-ssh root@10.0.3.50
+ssh root@1x.xx.xx.xx
 
 ---
